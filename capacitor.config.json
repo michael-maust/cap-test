@@ -1,0 +1,11 @@
+{
+  "appId": "cap.test1234.app",
+  "appName": "test-cap",
+  "bundledWebRuntime": false,
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  }
+}
